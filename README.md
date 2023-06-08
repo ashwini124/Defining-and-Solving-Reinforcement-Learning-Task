@@ -8,3 +8,5 @@ Initially, we concentrate on designing an environment that conforms to the princ
 Subsequently, in the second phase, we employ the SARSA algorithm, a tabular RL method, to tackle a pre-defined environment. 
 
 Lastly, we employ the Q-learning technique to resolve a grid-world environment. Through these progressive steps, we aim to enhance our understanding and proficiency in RL problem-solving.
+
+
