@@ -64,7 +64,7 @@ Advantages:
 Disadvantages:
 • May be slower to converge compared to off-policy algorithms.
 • Prone to being influenced by the exploration strategy and can get stuck in suboptimal policies.
-• Not suitable for environments with large state-action spaces due to the need for a Qtable
+• Not suitable for environments with large state-action spaces due to the need for a Q-table
 
 
 
